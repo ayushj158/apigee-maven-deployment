@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FlowCallout async="false" continueOnError="false" enabled="true" name="spike-arrest-shared-flow-callout">
+    <DisplayName>spike-arrest-shared-flow-callout</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <SharedFlowBundle>spike-arrest</SharedFlowBundle>
+</FlowCallout>

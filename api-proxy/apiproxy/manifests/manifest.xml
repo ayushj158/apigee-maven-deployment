@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="XML-to-JSON-1" version="SHA-512:e837a7068e46e80e1af97a5e74d3c58364ad08fba6e32f0bddc6e072e3841353ae0809584cca9ed1b3df02216d729f1e2b21d84205cbb208d66c3cd9752d85ac"/>
+        <VersionInfo resourceName="spike-arrest-shared-flow-callout" version="SHA-512:ce7dc13dbd119a682c8da824a4f1af7c1f25d1ffd193c9d48bc2d536ba503f065c7e178fee63ffa8565e218d0aa9204b78da0d9dd23d25208ea2ea8e11c0a23b"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:5d2cd6aa50cf2fc5e168604e978a0a296362c9c5411c8b96dccd830a8db39c93ea8850b9ec7cc62c9751082bb7b2bbc02f71717b0202a9a162b7510c52dca4aa"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="SHA-512:0cf9a4b6427decf343ede930a48b801763652a21463d05b5069137dbb12a08f77eaca74fb12fd775b114e5a329b26612a46d6e94852a0346753e0b1fa96e3181"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:d94eaa04caf25602d58be71e700b2cb3f030d50fcc24ca28ced8395852eefac4f5a050462631040e8f49f507d48498cfbae66aa47f25719dd79ba714761246d1"/>
+    </TargetEndpoints>
+</Manifest>
