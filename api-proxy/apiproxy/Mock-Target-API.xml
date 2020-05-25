@@ -3,11 +3,11 @@
     <Basepaths>/mock-target-api</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedAt>1590401339564</CreatedAt>
-    <CreatedBy>ayush.jain@publicissapient.com</CreatedBy>
+    <CreatedBy>opensouce@gmail.com</CreatedBy>
     <Description>OpenAPI Specification for the Apigee mock target service endpoint.</Description>
     <DisplayName>Mock-Target-API</DisplayName>
     <LastModifiedAt>1590401339564</LastModifiedAt>
-    <LastModifiedBy>ayush.jain@publicissapient.com</LastModifiedBy>
+    <LastModifiedBy>opensouce@gmail.com</LastModifiedBy>
     <ManifestVersion>SHA-512:c7b394f2afa2a5598a12c2c38e02925a373a084c58d7fb1f92b20a86e452e48773f7bf21f24faa77347357937a18c585ddc159821afed36e0eee52389e67f514</ManifestVersion>
     <Policies>
         <Policy>XML-to-JSON-1</Policy>
