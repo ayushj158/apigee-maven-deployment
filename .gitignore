@@ -1,0 +1,3 @@
+api-proxy/target/*
+shared-flow/target/*
+*.DS_Store
